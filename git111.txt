@@ -1,0 +1,3 @@
+проверка
+commit
+commitcommit
